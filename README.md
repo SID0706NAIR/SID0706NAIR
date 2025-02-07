@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SID0706NAIR
+- 👋 Hi, I’m Sidharth Nair
 - 👀 I’m interested in learning new stuff all the time and enhancing my skills
 - 🌱 I’m currently learning Data science 
 - 💞️ I’m looking to collaborate on any real world projects relating to my field of study 
